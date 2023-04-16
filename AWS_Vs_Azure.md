@@ -6,6 +6,7 @@
 | Regions  |  ap-south-1 | London , Mumbai| |
 | Zones |    ap-south-1-a ap-south-b   |   | |
 | Virtual Machine | EC-2 |   Visrtual Machine | |
+| Fixed IP | Elastic IP |   Static IP | fixed the public IP|
 
 ## Compute
 ![image](https://user-images.githubusercontent.com/69948118/232262362-e97a67fd-5e52-4678-96f2-49478a09ddb3.png)
