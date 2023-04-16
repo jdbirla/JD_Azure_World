@@ -12,7 +12,7 @@
 | Resevation compute | reserve instance | reservevm |  |
 |  logs |CloudTrail	  | Activity log|The Activity log is a platform log in Azure that provides insight into subscription-level events, such as when a resource is modified or when a virtual machine is started.|
 | Paas  | Elastic Beanstalk |App Service | Managed hosting platform providing easy to use services for deploying and scaling web applications and services.|
-|Amazon Elastic Container Service (Amazon ECS),|  AWS Fargate	Azure Container Apps | 	Azure Container Apps is a scalable service that lets you deploy thousands of containers without requiring access to the control plane.|
+|Amazon Elastic Container Service (Amazon ECS),AWS Fargate	Azure|   Container Apps | 	Azure Container Apps is a scalable service that lets you deploy thousands of containers without requiring access to the control plane.|
 |Amazon Elastic Container Registry (Amazon ECR)|	Azure Container Registry	Container registries store Docker formatted images and create all types of container deployments in the cloud.|
 |Amazon Elastic Kubernetes Service (EKS)|	Azure Kubernetes Service (AKS)|	EKS and AKS let you orchestrate Docker containerized application deployments with Kubernetes. AKS simplifies monitoring and cluster management through auto upgrades and a built-in operations console. See Container runtime configuration for specifics on the hosting environment.|
 |AWS App Mesh	|Open Service Mesh on AKS|	The Open Service Mesh add-on integrates with features provided by Azure as well as open source projects.|
