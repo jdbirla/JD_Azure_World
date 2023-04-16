@@ -7,7 +7,17 @@
 | Zones |    ap-south-1-a ap-south-b   |   | |
 | Fixed IP | Elastic IP |  Static IP | fixed the public IP |
 | Fixed IP | Elastic IP |  Static IP | fixed the public IP |
-| Monitoring | CloudWatch, X-Ray, Systems Manager | Monitor | fixed the public IP |
+| Monitoring | CloudWatch, X-Ray, Systems Manager | Monitor | |
+| Spot instance | Spot instance | Spot instance /vm | temporary compute |
+| Resevation compute | reserve instance | reservevm |  |
+|   |  | | |
+|   |  | | |
+|   |  | | |
+|   |  | | |
+
+
+
+
 
 ## Compute
 ![image](https://user-images.githubusercontent.com/69948118/232262362-e97a67fd-5e52-4678-96f2-49478a09ddb3.png)
