@@ -11,7 +11,7 @@
 | Spot instance | Spot instance | Spot instance /vm | temporary compute |
 | Resevation compute | reserve instance | reservevm |  |
 |  logs |CloudTrail	  | Activity log|The Activity log is a platform log in Azure that provides insight into subscription-level events, such as when a resource is modified or when a virtual machine is started.|
-|   |  | | |
+| Paas  | Elastic Beanstalk |App Service | Managed hosting platform providing easy to use services for deploying and scaling web applications and services.|
 |   |  | | |
 |   |  | | |
 
