@@ -1,8 +1,8 @@
 # AWS vs Azure services
 - https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
 
-| Use case   |      AWS      |  Azure | Description
-|----------|:-------------:|------:|------:|
+| Use case   |      AWS      |  Azure | Description |
+|:-------------:|:-------------:|:-------------:|:-------------:|
 | Regions  |  ap-south-1 | London , Mumbai| |
 | Zones |    ap-south-1-a ap-south-b   |   | |
 | Fixed IP | Elastic IP |  Static IP | fixed the public IP |
@@ -10,7 +10,7 @@
 | Monitoring | CloudWatch, X-Ray, Systems Manager | Monitor | |
 | Spot instance | Spot instance | Spot instance /vm | temporary compute |
 | Resevation compute | reserve instance | reservevm |  |
-|   |  | | |
+|  logs |CloudTrail	  | Activity log|The Activity log is a platform log in Azure that provides insight into subscription-level events, such as when a resource is modified or when a virtual machine is started.|
 |   |  | | |
 |   |  | | |
 |   |  | | |
