@@ -18,8 +18,10 @@
 |AWS App Mesh	|Open Service Mesh on AKS|	The Open Service Mesh add-on integrates with features provided by Azure as well as open source projects.|
 |AWS Lambda	|Azure Functions, WebJobs in Azure App Service|	Azure Functions is the primary equivalent of AWS Lambda in providing serverless, on-demand code. AWS Lambda functionality also overlaps with Azure WebJobs, which let you schedule or continuously run background tasks.|
 |  DataSync | DataSync	 | File Sync| |
+|  Simple Storage Services (S3) |Simple Storage Services (S3)  |Blob storage | 	Object storage service, for use cases including cloud applications, content distribution, backup, archiving, disaster recovery, and big data analytics.|
+|  EBS | Disk volumes on Amazon Elastic Block Store (EBS) | Data disks in Azure Blob Storage.|Data disks in blob storage provide durable data storage for Azure VMs. This storage is similar to AWS EC2 instance disk volumes on EBS. |
 |   |  | | |
-
+	
 
 
 
