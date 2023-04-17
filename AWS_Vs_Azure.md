@@ -17,7 +17,7 @@
 |Amazon Elastic Kubernetes Service (EKS)|	Azure Kubernetes Service (AKS)|	EKS and AKS let you orchestrate Docker containerized application deployments with Kubernetes. AKS simplifies monitoring and cluster management through auto upgrades and a built-in operations console. See Container runtime configuration for specifics on the hosting environment.|
 |AWS App Mesh	|Open Service Mesh on AKS|	The Open Service Mesh add-on integrates with features provided by Azure as well as open source projects.|
 |AWS Lambda	|Azure Functions, WebJobs in Azure App Service|	Azure Functions is the primary equivalent of AWS Lambda in providing serverless, on-demand code. AWS Lambda functionality also overlaps with Azure WebJobs, which let you schedule or continuously run background tasks.|
-|   |  | | |
+|  DataSync | DataSync	 | File Sync| |
 |   |  | | |
 
 
