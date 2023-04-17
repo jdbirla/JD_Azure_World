@@ -20,7 +20,13 @@
 |  DataSync | DataSync	 | File Sync| |
 |  Simple Storage Services (S3) |Simple Storage Services (S3)  |Blob storage | 	Object storage service, for use cases including cloud applications, content distribution, backup, archiving, disaster recovery, and big data analytics.|
 |  EBS | Disk volumes on Amazon Elastic Block Store (EBS) | Data disks in Azure Blob Storage.|Data disks in blob storage provide durable data storage for Azure VMs. This storage is similar to AWS EC2 instance disk volumes on EBS. |
+|  Athena |  Azure Synapse Analytics | | |
+|  Redshift | Synapse Analytics | | |
 |   |  | | |
+|   |  | | |
+|   |  | | |
+|   |  | | |
+
 	
 
 
