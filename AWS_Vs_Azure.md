@@ -22,12 +22,13 @@
 |  EBS | Disk volumes on Amazon Elastic Block Store (EBS) | Data disks in Azure Blob Storage.|Data disks in blob storage provide durable data storage for Azure VMs. This storage is similar to AWS EC2 instance disk volumes on EBS. |
 |  Athena |  Azure Synapse Analytics | | |
 |  Redshift | Synapse Analytics | | |
+| Dynamo DB  | Azure Cosmos DB	 | | |
+| Cloud virtual networking  | Virtual Private Cloud (VPC) | Virtual Network| Provides an isolated, private environment in the cloud. Users have control over their virtual networking environment, including selection of their own IP address range, creation of subnets, and configuration of route tables and network gateways.|
+|  Virtual network peering |VPC Peering  |VNET Peering | VNet peering is a mechanism that connects two virtual networks (VNets) in the same region through the Azure backbone network. Once peered, the two virtual networks appear as one for all connectivity purposes.|
 |   |  | | |
-|   |  | | |
-|   |  | | |
-|   |  | | |
+			
+			
 
-	
 
 
 
