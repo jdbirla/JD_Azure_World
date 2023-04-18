@@ -6,7 +6,6 @@
 | Regions  |  ap-south-1 | London , Mumbai| |
 | Zones |    ap-south-1-a ap-south-b   |   | |
 | Fixed IP | Elastic IP |  Static IP | fixed the public IP |
-| Fixed IP | Elastic IP |  Static IP | fixed the public IP |
 | Monitoring | CloudWatch, X-Ray, Systems Manager | Monitor | |
 | Spot instance | Spot instance | Spot instance /vm | temporary compute |
 | Resevation compute | reserve instance | reservevm |  |
